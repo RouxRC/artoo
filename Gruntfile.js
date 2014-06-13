@@ -15,6 +15,7 @@ module.exports = function(grunt) {
     'src/methods/artoo.methods.autoScroll.js',
     'src/methods/artoo.methods.instructions.js',
     'src/methods/artoo.methods.navigate.js',
+    'src/methods/artoo.methods.notify.js',
     'src/methods/artoo.methods.save.js',
     'src/methods/artoo.methods.scrape.js',
     'src/methods/artoo.methods.store.js',
